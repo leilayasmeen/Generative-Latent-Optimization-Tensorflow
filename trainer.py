@@ -110,7 +110,7 @@ class Trainer(object):
         log.infov("Training Starts!")
         pprint(self.batch_train)
 
-        max_steps = 100000
+        max_steps = 250000
 
         output_save_step = 1000
 
